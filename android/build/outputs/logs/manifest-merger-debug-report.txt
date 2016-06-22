@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml
+		INJECTED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml
+		INJECTED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml
+		INJECTED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:10:9-38
+		INJECTED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml
+		INJECTED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:9:9-34
+		INJECTED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml
+		INJECTED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:12:5-89
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:12:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:13:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:14:30-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:15:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:15:22-76
+application
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:17:5-57:19
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:21:9-40
+meta-data#com.google.android.gms.nearby.connection.SERVICE_ID
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:23:9-25:46
+	tools:ignore
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:25:13-44
+	android:value
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:23:20-86
+activity#com.mygdx.game.Layouts.startscreen
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:26:9-34:20
+	android:screenOrientation
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:27:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:32:27-74
+activity#com.mygdx.game.Layouts.suchen
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:35:9-37:52
+	android:screenOrientation
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:36:13-43
+activity#com.mygdx.game.Layouts.spielregeln
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:38:9-40:52
+	android:screenOrientation
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:39:13-48
+activity#com.mygdx.game.AndroidLauncher
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:41:9-43:52
+	android:screenOrientation
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:42:13-44
+activity#com.mygdx.game.Layouts.nickname
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:44:9-46:52
+	android:screenOrientation
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:45:13-45
+activity#com.mygdx.game.NetworkConnection
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:47:9-49:73
+	android:label
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:49:13-70
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:48:13-46
+activity#com.mygdx.game.Spiel.GameActivity
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:50:9-52:52
+	android:screenOrientation
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:51:13-47
+activity#com.mygdx.game.Layouts.GameOverActivity
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:53:9-62
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:53:19-59
+activity#com.mygdx.game.Layouts.MyStartedGame
+ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:54:9-56:79
+	android:label
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:56:13-67
+	android:name
+		ADDED from /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/AndroidManifest.xml:55:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:22:13-58

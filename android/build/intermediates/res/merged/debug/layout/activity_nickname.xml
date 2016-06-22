@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Layouts.nickname"
+    android:background="#ffffff">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextNickname"
+        android:layout_marginTop="36dp"
+        android:hint="@string/editTextNicknameHint"
+        android:layout_below="@+id/textViewNick"
+        android:layout_toRightOf="@+id/buttonNickZurück"
+        android:layout_toEndOf="@+id/buttonNickZurück" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ok"
+        android:id="@+id/buttonOk"
+        android:onClick="onButtonClickOk"
+        android:width="100dp"
+        android:layout_alignBaseline="@+id/buttonNickZurück"
+        android:layout_alignBottom="@+id/buttonNickZurück"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zurück"
+        android:id="@+id/buttonNickZurück"
+        android:onClick="onButtonClickNickZurück"
+        android:width="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New RadioButton"
+        android:id="@+id/radioButtonBlau"
+        android:width="70dp"
+        android:layout_below="@+id/editTextNickname"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="32dp"
+        android:clickable="true" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New RadioButton"
+        android:id="@+id/radioButtonLila"
+        android:width="70dp"
+        android:layout_alignTop="@+id/radioButtonBlau"
+        android:layout_toLeftOf="@+id/imageView4"
+        android:layout_toStartOf="@+id/imageView4"
+        android:clickable="true" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New RadioButton"
+        android:id="@+id/radioButtonSchwarz"
+        android:width="70dp"
+        android:layout_below="@+id/radioButtonBlau"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="65dp"
+        android:clickable="true" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New RadioButton"
+        android:id="@+id/radioButtonRot"
+        android:width="70dp"
+        android:layout_alignTop="@+id/imageView5"
+        android:layout_alignLeft="@+id/radioButtonLila"
+        android:layout_alignStart="@+id/radioButtonLila"
+        android:clickable="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/spielfigur"
+        android:id="@+id/textViewNick"
+        android:layout_marginTop="35dp"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/buttonOk"
+        android:layout_alignRight="@+id/buttonOk"
+        android:layout_alignEnd="@+id/buttonOk" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3"
+        android:src="@drawable/kegel_blau"
+        android:layout_alignTop="@+id/radioButtonBlau"
+        android:layout_above="@+id/radioButtonSchwarz"
+        android:layout_alignRight="@+id/buttonNickZurück"
+        android:layout_alignEnd="@+id/buttonNickZurück" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView4"
+        android:src="@drawable/kegel_lila"
+        android:contentDescription="gelb"
+        android:layout_alignTop="@+id/radioButtonLila"
+        android:layout_alignLeft="@+id/buttonOk"
+        android:layout_alignStart="@+id/buttonOk"
+        android:layout_alignBottom="@+id/radioButtonLila" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView5"
+        android:src="@drawable/kegel_schwarz"
+        android:layout_alignTop="@+id/radioButtonSchwarz"
+        android:layout_alignRight="@+id/imageView3"
+        android:layout_alignEnd="@+id/imageView3"
+        android:layout_alignBottom="@+id/radioButtonSchwarz"
+        android:layout_alignLeft="@+id/imageView3"
+        android:layout_alignStart="@+id/imageView3" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView6"
+        android:src="@drawable/kegel_rot"
+        android:layout_alignTop="@+id/radioButtonRot"
+        android:layout_alignLeft="@+id/imageView4"
+        android:layout_alignStart="@+id/imageView4"
+        android:layout_alignBottom="@+id/radioButtonRot"
+        android:layout_alignRight="@+id/imageView4"
+        android:layout_alignEnd="@+id/imageView4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/radioButtonSchwarz"
+        android:layout_alignLeft="@+id/imageView5"
+        android:layout_alignStart="@+id/imageView5"
+        android:layout_alignRight="@+id/imageView6"
+        android:layout_alignEnd="@+id/imageView6"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+</RelativeLayout>

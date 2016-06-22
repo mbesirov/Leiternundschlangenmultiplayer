@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.2\e641cb91bec06bc64d9ddf7a7d7062caceec73cd\gdx-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e641cb91bec06bc64d9ddf7a7d7062caceec73cd">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.2_65095274fef4572c33dc3fc1ad62bd60fd49ef4f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.2\342b830bc718dc1965c8f13fc58dc500e8bd262f\gdx-backend-android-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="342b830bc718dc1965c8f13fc58dc500e8bd262f">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.2_50ee488a1e7a32c9ebb8bb7143890e3a95ea7064\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_676f12021ef06a63426f2a78524b8ec73f29c34b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_3dbb2994960c9fa2d6626f85a0ac8918217b98ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.2\b78eaa90aaaf7830e6dffff587ea6e859c2787b2\gdx-box2d-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b78eaa90aaaf7830e6dffff587ea6e859c2787b2">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.2_93063cba22651d03fa330d192c0ebd0aa8dba773\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\net.onedaybeard.artemis\artemis-odb\1.3.1\628245bd40b4d946a60b793db072cc46966cef6\artemis-odb-1.3.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0628245bd40b4d946a60b793db072cc46966cef6">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\artemis-odb-1.3.1_2d4c0aea26f34a1738b19e1583c0bb324e553102\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_2ed92aba1f50a459bdadfc2425295f0c5a45e461\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\net.dermetfan.libgdx-utils\libgdx-utils-box2d\0.13.3\8cf92d93d3022a9616636a67b0864b781d349066\libgdx-utils-box2d-0.13.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8cf92d93d3022a9616636a67b0864b781d349066">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\libgdx-utils-box2d-0.13.3_812d13d753bfacbb1cff44ba7eab66ddec94c414\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.6.2\62705f896186f9294e37daa0ade876e8692310cf\gdx-freetype-1.6.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="62705f896186f9294e37daa0ade876e8692310cf">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-freetype-1.6.2_d407b984c23f2abf10314ffc7e2034b8919c00f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_a7360d9ae1a7cc27bb5e2c46deaef34c796f50a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\com.kotcrab.vis\vis-ui\1.0.1\fa574cc5321ea52c17b6aa34ade820b94c312f0b\vis-ui-1.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fa574cc5321ea52c17b6aa34ade820b94c312f0b">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\vis-ui-1.0.1_334f46108e8f1886f397176e3bc7debc9b0a14d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_025b397c6dba85e9abafea420801f799e1428ea9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\com.kotcrab.vis\vis-runtime\0.3.1\194993e831efb936c156bd1f487f8f231dc5ba43\vis-runtime-0.3.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="194993e831efb936c156bd1f487f8f231dc5ba43">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\vis-runtime-0.3.1_2ab296bea87b5aad7b1fa9b1900b2eff58584f55\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\com.underwaterapps.overlap2druntime\overlap2d-runtime-libgdx\0.1.0\1dd0d0808d1e44fe10c749d8216c44e5c4c99361\overlap2d-runtime-libgdx-0.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1dd0d0808d1e44fe10c749d8216c44e5c4c99361">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\overlap2d-runtime-libgdx-0.1.0_de558c5e9bb7b1588b11ce999d2f1ada0656d163\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\net.dermetfan.libgdx-utils\libgdx-utils\0.13.3\96b4f9d59b869f1cbf83b055ec763519da83a125\libgdx-utils-0.13.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="96b4f9d59b869f1cbf83b055ec763519da83a125">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\libgdx-utils-0.13.3_6fdad690361685097d604d3c1b6eeb29757cbf43\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.4\3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd\box2dlights-1.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\box2dlights-1.4_7532a12859935d2a9a8cda455571bca53f3ed784\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8881399ab3bc4e05bb490ba7e7a16d4bff56b28c">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_97d4456926c30d3efe0f9315cd2d3375d61cd92a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6593d32ef0e25561a1beef9d01eebe4a671c8a8a">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9dc00866644b457a7cc0094a792852c25d7af62a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_ecbe425b6d75574516d863337bedfa1e640d2ebf\classes.dex" />
+    </item>
+
+</items>

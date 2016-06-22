@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LeiternUndSchlagen</string>
+    <string name="textViewSpielregeln">Spielzug Jeder Spieler beginnt mit einer Spielfigur auf dem Startfeld. ‹blicherweise wird reihum ein einzelner W¸rfel gespielt. Dessen Ergebnis gibt an, wie viele Felder sich die Spielfigur vorw‰rtsbewegen darf. Endet ihr Zug auf dem Anfangsfeld einer Leiter, wird sie auf deren Endfeld vorgesetzt. Endet er auf einer Schlange, wird sie auf deren Endfeld versetzt, das wieder n‰her am Anfangsfeld liegt.   Sieger ist, wer zuerst das Zielfeld erreicht.  Ein Schlangen und Leiter-Spielplan enth‰lt eine Kette von Spielfeldern, die von einem Start- zu einem Zielfeld f¸hrt und sich im Zickzack windet. An mehreren Stellen sind zwei nicht direkt aufeinanderfolgende Felder durch Schlangen oder Leitern verbunden.   Phantasie?  Im Detail gibt es verschiedene Regeln zum punktgenauen Erreichen des Zielfeldes oder der Situation, dass das Endfeld einer Bewegung bereits von einer anderen Figur besetzt ist. Oder was geschieht wenn mein Feld bereits besetzt ist? Kann ich schlagen oder ¸berholen?  Das Grundprinzip des Spiels wird auch oft abgewandelt, indem etwa jeder Spieler mehrere Spielfiguren erh‰lt oder einzelnen Feldern Spezialereignisse zugewiesen werden (r¸cke 3 Felder vor, setze eine Runde aus, Wissensfragen einbauen, ...). Hier kommt Eure Phantasie ins Spiel!  Das Spiel ist in seiner Grundform ein reines Gl¸cksspiel ohne strategische Elemente, weshalb es vor allem von und mit j¸ngeren Kindern gespielt wird.  Das Spilbrett ist taktil, d.h. die Spielfelder sind mit den Ziffern von 1 bis 100 in Schwarzschrift und Braille durchnummeriert. Die Leitern und Schlangen sind ebenfalls erhaben. Als W¸rfel kommt ein stabiler, taktiler W¸rfelblock zum Einsatz.</string>
+    <string name="title_activity_network_connection">NetworkConnection</string>
+    <string name="service_id">LeiternUndSchlangen</string>
+    <string name="editTextNicknameHint">Dein Nickname</string>
+    <string name="spielfigur">Gib deinen gewünschten Nicknamen im unteren Feld ein und wähle deine Spielfigur:</string>
+    <string name="title_activity_my_started_game">MyStartedGame</string>
+
+</resources>

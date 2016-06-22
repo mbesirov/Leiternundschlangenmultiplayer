@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="10928105443326"
+    token="-9067519124764686494" >
+
+    <task
+        name="javac"
+        duration="613" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="477" />
+    <task
+        name="verifier"
+        duration="242" />
+
+    <artifact
+        location="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\outputs\apk\android-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="10928105443326" >
+        <artifact
+            location="C:\Users\Florian\Music\LeiternUndSchlangenNeu\android\build\outputs\apk\android-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

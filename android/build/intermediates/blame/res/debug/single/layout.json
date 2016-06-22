@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ame.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\res\\layout\\activity_ame.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/res/merged/debug/layout/activity_gameover.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/res/layout/activity_gameover.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/res/merged/debug/layout/activity_my_started_game.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/res/layout/activity_my_started_game.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_network_connection.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\res\\layout\\activity_network_connection.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\build\\intermediates\\res\\merged\\debug\\layout\\startscreen.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\res\\layout\\startscreen.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/res/merged/debug/layout/activity_nickname.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/res/layout/activity_nickname.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nickname.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\res\\layout\\activity_nickname.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/res/merged/debug/layout/activity_spielregeln.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/res/layout/activity_spielregeln.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/res/merged/debug/layout/activity_network_connection.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/res/layout/activity_network_connection.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_started_game.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\res\\layout\\activity_my_started_game.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/res/merged/debug/layout/activity_ame.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/res/layout/activity_ame.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gameover.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\res\\layout\\activity_gameover.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/res/merged/debug/layout/activity_suchen.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/res/layout/activity_suchen.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_spielregeln.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\res\\layout\\activity_spielregeln.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_suchen.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/C:\\Users\\Florian\\Music\\LeiternUndSchlangenNeu\\android\\res\\layout\\activity_suchen.xml"
+    },
+    {
+        "merged": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/build/intermediates/res/merged/debug/layout/startscreen.xml",
+        "source": "/Users/Moers/Desktop/Leiternundschlangenmultiplayer/android/res/layout/startscreen.xml"
+    }
+]
